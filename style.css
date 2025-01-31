@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #2A5D5A;
+}
+
+h1 {
+    background: #311313;
+    width: 636px;
+    height: 116px;
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 77.45px;
+    color: white;
+    margin: 30px auto;
+    text-align: center;
+    padding: 10px;
+}
+
+.black {
+    background-color: black;
+    color: white;
+    width: 1000px;
+    height: 638px;
+    border: 10px solid red;
+    margin: 0 auto;
+}
+
+.green {
+    width: 896px;
+    height: 259px;
+    background: #1FE8B7;
+    margin: 30px auto;
+    color: black;
+    padding: 54px 40px;
+}
+
+p {
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29.05px;
+}
